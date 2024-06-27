@@ -1,2 +1,4 @@
-# pima-diabetes
-research paper on diabetes prediction in arizona pima women using random forest classifier
+# Pima Diabetes
+**via Google Colab**
+
+Main Hub: https://github.com/anniettr/t2d_pred
